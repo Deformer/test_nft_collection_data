@@ -1,0 +1,19 @@
+{
+  "attributes" : [
+    {
+      "trait_type" : "level",
+      "value" : 99
+    },
+    {
+      "trait_type" : "personality",
+      "value" : "sueta"
+    },
+    {
+      "trait_type" : "role",
+      "value" : "ceo"
+    }
+  ],
+  "description" : "Gbots CEO",
+  "image" : "https://storage.googleapis.com/gbots_media/eduard.jpg",
+  "name" : "Eduard"
+}
