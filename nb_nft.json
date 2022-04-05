@@ -1,0 +1,20 @@
+
+ {
+  "attributes" : [
+    {
+      "trait_type" : "level",
+      "value" : 99
+    },
+    {
+      "trait_type" : "personality",
+      "value" : "sweet"
+    },
+    {
+      "trait_type" : "role",
+      "value" : "developer"
+    }
+  ],
+  "description" : "Gbots Developer",
+  "image" : "https://storage.googleapis.com/gbots_media/nikolay.jpg",
+  "name" : "Nikolay"
+}
