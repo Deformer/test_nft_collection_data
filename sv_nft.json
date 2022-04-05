@@ -1,0 +1,19 @@
+{
+  "attributes" : [
+    {
+      "trait_type" : "level",
+      "value" : 99
+    },
+    {
+      "trait_type" : "personality",
+      "value" : "nerd"
+    },
+    {
+      "trait_type" : "role",
+      "value" : "developer"
+    }
+  ],
+  "description" : "Gbots Developer",
+  "image" : "https://storage.googleapis.com/gbots_media/sbelan.jpg",
+  "name" : "Sergey"
+}
