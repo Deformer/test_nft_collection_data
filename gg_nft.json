@@ -1,0 +1,19 @@
+{
+  "attributes" : [
+    {
+      "trait_type" : "level",
+      "value" : "[hiden]"
+    },
+    {
+      "trait_type" : "personality",
+      "value" : "[hidden]"
+    },
+    {
+      "trait_type" : "role",
+      "value" : "[hidden]"
+    }
+  ],
+  "description" : "[hidden]",
+  "image" : "https://storage.googleapis.com/gbots_media/geraldo.jpg",
+  "name" : "Geraldo"
+}
