@@ -14,6 +14,6 @@
     }
   ],
   "description" : "Gbots CEO",
-  "image" : "https://storage.googleapis.com/gbots_media/eduard.jpg",
+  "video": "https://storage.googleapis.com/gbots_media/gbots_whitelist_card_01.mp4",
   "name" : "Eduard"
 }
