@@ -1,0 +1,19 @@
+{
+  "attributes" : [
+    {
+      "trait_type" : "level",
+      "value" : "99"
+    },
+    {
+      "trait_type" : "personality",
+      "value" : "creative"
+    },
+    {
+      "trait_type" : "role",
+      "value" : "creator"
+    }
+  ],
+  "description" : "Creator",
+  "image" : "https://storage.googleapis.com/gbots_media/arseniy.jpg",
+  "name" : "Arseniy"
+}
